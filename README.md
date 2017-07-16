@@ -1,4 +1,4 @@
-VoiceBoard Privacy Policy 
+7VoiceBoard Privacy Policy 
 
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
@@ -8,9 +8,11 @@ This privacy policy has been compiled to better serve those who are concerned wi
 When do we collect information? 
 
 
-• None of the words you type are stored either locally or globally. Although​  they may be used for statistics​ feature in future.
+• None of the words you type are stored either locally or globally. Although  they may be used for statistics​ feature in future.
 
-​• We use Google's speech recognition​ service to provide the functionality​  of voice typing. As a result google may use this information​ to improve their services .
+• We use Google's speech recognition service to provide the functionality  of voice typing. As a result google may use this information to improve their services .
+
+• The Record audio permission is used only for voice typing.
 
  Third party disclosure 
  
@@ -40,6 +42,6 @@ VoiceBoard
 pranjal2041@gmail.com 
 
 
-Effective From:- 16/07/2017 
+Effective From:- 17/07/2017 
 
 
